@@ -1,7 +1,7 @@
 # GettingAndCleaningData
 The final project for the Johns Hopkins Coursera course, Getting and Cleaning Data
 
-Bot run_analysis.R and run_analysis.Rmd are identical code, except that run_analysis.Rmd is in a markdown format for reviewer
+Both run_analysis.R and run_analysis.Rmd are identical code, except that run_analysis.Rmd is in a markdown format for reviewer
 readability.
 
 The code assumes that the following files, downloaded from 
