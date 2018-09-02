@@ -19,4 +19,6 @@ are in the working directory, unaltered from the downloaded and extracted format
   
 These were downloaded and extracted from within the R environment for this analysis, but that code was not included as part
 of the run_analysis.R or run_analysis.Rmd code provided here due to differences in computer operating systems and file
-structures among reviewers.  The file download code is available seperately as 
+structures among reviewers.  The file download code is available seperately as Course_Project_Exploration.Rmd.
+
+The output of the code is a file called myTidyData.txt.  It is included as part of this repository.  A codebook for this data set is included.
