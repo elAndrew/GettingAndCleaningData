@@ -23,7 +23,7 @@ varnames <- grep("mean\\(\\)|std\\(\\)", features, value=TRUE, ignore.case = TRU
 filter <- grepl("mean\\(\\)|std\\(\\)", features)
 ```
 
-Read in X_test and X_train:
+Read in X_test.txt and X_train.txt:
 ```{r}
 library(dplyr)
 
